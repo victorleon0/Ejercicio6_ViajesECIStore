@@ -1,0 +1,168 @@
+html{
+    background-color: rgb(219, 219, 219)
+}
+.menu {
+    display: block;
+    height: 74px;
+    left: 730px;
+    margin-top: 0px;
+    padding-left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 706px;
+}
+.menu li{
+    display: inline;
+    margin: 35px;
+    float:left;
+    height: 50px;
+}
+.iconoagencias{
+    position: relative;
+    top: 25px;
+    right: 480px;
+    opacity: 20%;
+}
+img .iconoafaqs{
+    position: relative;
+    right: 100px;
+    
+}
+.iconoagencias{
+    position: relative;
+    top: 25px;
+    right: 480px;
+    opacity: 20%;
+}
+.iconoagencias{
+    position: relative;
+    top: 25px;
+    right: 480px;
+    opacity: 20%;
+}
+.menuprincipal {
+    position: inline;
+    right: 0px;
+    top: 0px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 0px;
+
+}
+.menuprincipal li{
+    display: inline;
+    margin: 14px;
+    height: 100px;
+    width: max-content;
+    font-size: 18px;
+}
+.barramenu{
+    display: inline;
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+}
+.iconomenu{
+    position: relative;
+    top: 10px;
+    left: 20px
+}
+.palabramenu {
+    position: relative;
+    display: inline;
+    left: 52px;
+    bottom:25px; 
+}
+.colormenu {
+    position: relative;
+    left: -3%;
+    top: 15px;
+    background-color: green;
+    width: 90px;
+    height: 60px;
+    padding-left: 30px;
+}
+.breadcrumb {
+    padding-top: 10px;
+}
+.breadcrumb h5{
+    width: max-content;
+    display: inline;
+    text-decoration: none;
+}
+.filtrosbotones{
+    padding-top: 10px;
+    padding-left: 70px;
+}
+.filtrosbotones li{
+    display: inline;
+    position: center;
+    margin: 20px;
+    height: 100px;
+    width: max-content;
+    font-size: 18px;
+    border: 2px solid green;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(255, 255, 255); 
+    background-color: green;
+
+}
+.ofertas {
+    display: grid;
+}
+article {
+    display: inline-block;
+    position: relative;
+    width:500px;
+    height: 460px;
+    margin-left: 90px;
+    margin-top: 50px;
+    background-color: white;
+    color: black;
+    box-sizing: border-box;
+}
+.oferta2 {
+    position: relative;
+    top: 50px;
+}
+article h2{
+    margin-top: 5px;
+    margin-left: 20px; 
+    color: black
+}
+article h3{
+    margin-top: 5px;
+    margin-left: 20px; 
+    color: black
+}
+article p{
+    margin-top: 5px;
+    margin-left: 20px; 
+    padding: auto;
+    color: black;
+}
+.precio1{
+    color:green;
+    font-size: 40px;
+}
+.masinformacion{
+    position: relative;
+    float: right;
+    padding-bottom: 100px;
+    border: 1px solid green;
+    padding: 10px;
+    bottom: 80px;
+    right: 25px;
+    color:green;
+}
+.preciodesde{
+    position: relative;
+    top: 20px;
+}
+a{
+    text-decoration: none;
+}
+
